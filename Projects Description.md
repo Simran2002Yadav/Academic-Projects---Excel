@@ -1,4 +1,4 @@
-# Financial Analysis - Prepared financial report on International Data
+# Stock Performance Analysis - Prepared financial report on International Data
 ## Objective
 To analyze the stock performance of Indian Oil Corporation Limited (IOC), listed under the S&P BSE Oil & Gas index, over a seven-year period from January 2015 to November 2021.
 
